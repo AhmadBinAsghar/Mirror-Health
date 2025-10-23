@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "847757642270",
+    "project_id": "mirror-health-a9d04",
+    "storage_bucket": "mirror-health-a9d04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847757642270:android:5aaa46e4707160adeefc0f",
+        "android_client_info": {
+          "package_name": "health.mirror.mirrorhealth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "847757642270-acl21i6uchr8edsrqj0u3g5hk7p6eiks.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "health.mirror.mirrorhealth",
+            "certificate_hash": "6ce0f34b482f8d52431e438a665131bef1fb7294"
+          }
+        },
+        {
+          "client_id": "847757642270-mtntsseftd8b1qmlonsbk3n9603h49jr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa_fxvGRmxPlDvsFmtt5SifLYUpuCWBMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "847757642270-mtntsseftd8b1qmlonsbk3n9603h49jr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "847757642270-jmrs2vkst1l8mtar1i5gj093s00mo0cg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "health.mirror.mirrorhealth"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

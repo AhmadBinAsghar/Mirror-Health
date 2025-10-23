@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>CFBundleDevelopmentRegion</key>
+		<string>en</string>
+		<key>CFBundleDisplayName</key>
+		<string>Mirror Health</string>
+		<key>CFBundleExecutable</key>
+		<string>$(EXECUTABLE_NAME)</string>
+		<key>CFBundleIdentifier</key>
+		<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+		<key>CFBundleInfoDictionaryVersion</key>
+		<string>6.0</string>
+		<key>CFBundleName</key>
+		<string>Mirror Health</string>
+		<key>CFBundlePackageType</key>
+		<string>APPL</string>
+		<key>CFBundleShortVersionString</key>
+		<string>$(MARKETING_VERSION)</string>
+		<key>CFBundleSignature</key>
+		<string>????</string>
+		<key>CFBundleURLTypes</key>
+		<array>
+			<dict>
+				<key>CFBundleTypeRole</key>
+				<string>Editor</string>
+				<key>CFBundleURLSchemes</key>
+				<array>
+					<string>com.googleusercontent.apps.847757642270-jmrs2vkst1l8mtar1i5gj093s00mo0cg</string>
+				</array>
+			</dict>
+			<dict>
+				<key>CFBundleURLSchemes</key>
+				<array>
+					<string>fb884978247030299</string>
+				</array>
+			</dict>
+		</array>
+		<key>CFBundleVersion</key>
+		<string>$(CURRENT_PROJECT_VERSION)</string>
+		<key>FacebookAppID</key>
+		<string>884978247030299</string>
+		<key>FacebookClientToken</key>
+		<string>64d2764dfb2da2b8da385d511d2d0a05</string>
+		<key>FacebookDisplayName</key>
+		<string>Mirror Health</string>
+		<key>LSApplicationQueriesSchemes</key>
+		<array>
+			<string>fbapi</string>
+			<string>fb-messenger-share-api</string>
+		</array>
+		<key>LSRequiresIPhoneOS</key>
+		<true/>
+		<key>NSAppTransportSecurity</key>
+		<dict>
+			<key>NSAllowsArbitraryLoads</key>
+			<true/>
+		</dict>
+		<key>NSBluetoothAlwaysUsageDescription</key>
+		<string>Mirror Health needs access to Bluetooth to connect to and interact with your smart health device.</string>
+		<key>NSBluetoothPeripheralUsageDescription</key>
+		<string>Mirror Health needs access to Bluetooth to connect to and interact with your smart health device.</string>
+		<key>NSCameraUsageDescription</key>
+		<string>In order to use the camera to take a photo for your profile, you need to allow access to the camera.</string>
+		<key>NSLocationWhenInUseUsageDescription</key>
+		<string></string>
+		<key>NSPhotoLibraryAddUsageDescription</key>
+		<string>In order to upload a photo for your profile, you need to allow access to your photos.</string>
+		<key>NSPhotoLibraryUsageDescription</key>
+		<string>In order to upload a photo for your profile, you need to allow access to your photos.</string>
+		<key>UIAppFonts</key>
+		<array>
+			<string>GeneralSans-Bold.otf</string>
+			<string>GeneralSans-BoldItalic.otf</string>
+			<string>GeneralSans-Extralight.otf</string>
+			<string>GeneralSans-ExtralightItalic.otf</string>
+			<string>GeneralSans-Italic.otf</string>
+			<string>GeneralSans-Light.otf</string>
+			<string>GeneralSans-LightItalic.otf</string>
+			<string>GeneralSans-Medium.otf</string>
+			<string>GeneralSans-MediumItalic.otf</string>
+			<string>GeneralSans-Regular.otf</string>
+			<string>GeneralSans-Semibold.otf</string>
+			<string>GeneralSans-SemiboldItalic.otf</string>
+		</array>
+		<key>UIBackgroundModes</key>
+		<array>
+			<string>bluetooth-central</string>
+			<string>fetch</string>
+			<string>remote-notification</string>
+		</array>
+		<key>UILaunchStoryboardName</key>
+		<string>LaunchScreen</string>
+		<key>UIRequiredDeviceCapabilities</key>
+		<array>
+			<string>arm64</string>
+		</array>
+		<key>UIStatusBarHidden</key>
+		<true/>
+		<key>UISupportedInterfaceOrientations</key>
+		<array>
+			<string>UIInterfaceOrientationPortrait</string>
+		</array>
+		<key>UISupportedInterfaceOrientations~ipad</key>
+		<array>
+			<string>UIInterfaceOrientationLandscapeLeft</string>
+			<string>UIInterfaceOrientationLandscapeRight</string>
+			<string>UIInterfaceOrientationPortrait</string>
+		</array>
+		<key>UIViewControllerBasedStatusBarAppearance</key>
+		<false/>
+	</dict>
+</plist>

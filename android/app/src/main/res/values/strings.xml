@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Mirror Health</string>
+    <string name="facebook_app_id">884978247030299</string>
+    <string name="fb_login_protocol_scheme">fb884978247030299</string>
+    <string name="facebook_client_token">64d2764dfb2da2b8da385d511d2d0a05</string>
+</resources>
